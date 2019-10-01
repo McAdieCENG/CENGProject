@@ -9,6 +9,9 @@
 ### September 18, 2019
 Uploaded [Budget Files!](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Budget%20Files)
 
+### September 17, 2019
+Meet with the sponsor of the project Valeria from the Humber Greenhouse. Discussed important features that would benefit her and all different kinds of plants.
+
 ### September 12, 2019
 Uploaded [Scheduling Files!](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Schedule%20Files)
 
