@@ -1,12 +1,3 @@
----
-title: Greenhouse System Project Blog Updates
-author: Ryan McAdie
-date: Sept 2019 - April 2020
-output:
-  prettydoc::html_pretty:
-    theme: architect
-    highlight: github
----
 # Greenhouse System Project Blog Updates
 
 ### October 1, 2019
