@@ -3,7 +3,7 @@
 ### October 1, 2019
 - Fixed up budget files to include missing information
 - Uploaded Snapshots of recipts for items purchased. [Proof of Purchases](https://github.com/McAdieCENG/CENGProject/tree/master/Images)
-![Purchase #1](https://github.com/McAdieCENG/CENGProject/blob/master/Images/ProofOfPurch1.PNG "Purchase #1")
+![Purchase #1](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/ProofOfPurch1.PNG "Purchase #1")
 ![Purchase #2](https://github.com/McAdieCENG/CENGProject/blob/master/Images/ProofOfPurch2.PNG "Purchase #2")
 
 ### September 18, 2019
