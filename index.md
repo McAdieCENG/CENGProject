@@ -1,5 +1,8 @@
 # Greenhouse System Project Blog Updates
 
+### October 8, 2019
+Showed what I purchased for my project that I didn't already own. As well as, went over safty procedures and safty drills during the lab time and watched videos on soldering.
+
 ### October 1, 2019
 - Fixed up budget files to include missing information
 - Uploaded Snapshots of recipts for items purchased. [Proof of Purchases](https://github.com/McAdieCENG/CENGProject/tree/master/Images)
