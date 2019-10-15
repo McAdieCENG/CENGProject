@@ -6,6 +6,7 @@
 ![BME680_Schem](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_schem.png "BME680_Schem")
 ![BME680_PCB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_pcb.png "BME680_PCB")
 - Sent PCB Gerber files to Humber Prototype Lab for fabrication. Gerber files uploaded here: [BME680 Gerber Files](https://github.com/McAdieCENG/CENGProject/tree/master/Electronics)
+- Uploaded both Fritzing Files used, one with a Raspberry Pi and one without. Uploaded files here: [BME680 Fritzing Files](https://github.com/McAdieCENG/CENGProject/tree/master/Electronics)
 
 ### October 8, 2019
 Showed what I purchased for my project that I didn't already own. As well as, went over safety procedures and safty drills during the lab time and watched videos on soldering.
