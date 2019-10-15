@@ -1,7 +1,11 @@
 # Greenhouse System Project Blog Updates
 
+### October 15, 2019
+- Finished up Breadboard, Schematic and PCB views for my BME680 Hat that will attach to a Raspberry Pi 3 B+.
+- Sent PCB Gerber files to Humber Prototype Lab for fabrication
+
 ### October 8, 2019
-Showed what I purchased for my project that I didn't already own. As well as, went over safty procedures and safty drills during the lab time and watched videos on soldering.
+Showed what I purchased for my project that I didn't already own. As well as, went over safety procedures and safty drills during the lab time and watched videos on soldering.
 
 ### October 1, 2019
 - Fixed up budget files to include missing information
