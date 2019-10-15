@@ -2,6 +2,9 @@
 
 ### October 15, 2019
 - Finished up Breadboard, Schematic and PCB views for my BME680 Hat that will attach to a Raspberry Pi 3 B+.
+![BME680_BB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_bb.png "BME680_BB")
+![BME680_Schem](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_schem.png "BME680_Schem")
+![BME680_PCB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_pcb.png "BME680_PCB")
 - Sent PCB Gerber files to Humber Prototype Lab for fabrication
 
 ### October 8, 2019
@@ -29,7 +32,3 @@ Uploaded [Proposal Files!](https://github.com/McAdieCENG/CENGProject/tree/master
 - Repository Created!
 - Group Members Picked!
 - Project Selected
-
-
-
-
