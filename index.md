@@ -1,5 +1,16 @@
 # Greenhouse System Project Blog Updates
 
+### October 29, 2019
+- Demonstrated a working breadboard of the project to the Professor
+- Changed the wire colours inside the fritzing file to match the wires I used today to complete the breadboard
+![Colour Change for Wires](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_bb_new_colours.jpg "New Wire Colours")
+- Uploaded the image of the [working breadboard](https://github.com/McAdieCENG/CENGProject/tree/master/Images)
+![Working Breadboard](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/bb_setup.jpg "Working Breadboard")
+- Uploaded sample code used to demo the BME680 wokring correctly into the [software folder](https://github.com/McAdieCENG/CENGProject/tree/master/Software)
+
+### October 22, 2019
+Currently, we are in reading week for this semester so to stay on track with the project I used this time to load my development platform with an OS and made sure everything was working and up to date for when I return to class next week. Installation also included the downloading and installation of the correct librarys to use the BME680 with the development platform  
+
 ### October 15, 2019
 - Finished up Breadboard, Schematic and PCB views for my BME680 Hat that will attach to a Raspberry Pi 3 B+. Images uploaded here: [BME680 Images](https://github.com/McAdieCENG/CENGProject/tree/master/Images) 
 ![BME680_BB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_bb.png "BME680_BB")
