@@ -1,6 +1,7 @@
 # Greenhouse System Project Blog Updates
 
 ### October 29, 2019
+Currently, I am on track with my project in terms of the actual work as well as finacially, meaning that I have had no unexpected fees or costs up to this point in time.
 - Demonstrated a working breadboard of the project to the Professor
 - Changed the wire colours inside the fritzing file to match the wires I used today to complete the breadboard
 ![Colour Change for Wires](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_bb_new_colours.jpg "New Wire Colours")
