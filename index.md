@@ -1,5 +1,10 @@
 # Greenhouse System Project Blog Updates
 
+### November 5, 2019
+Finished with soldering my PCB with all my components, and have uploaded the pictures to the [images folder](https://github.com/McAdieCENG/CENGProject/tree/master/Images). Currently, as far as my budget, project plan and purposal I am on track with completing my project without having to make changes to my budget or my project plan. 
+![SolderPt1](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/SolderPt1.jpg "SolderPt1")
+![SolderPt2](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/SolderPt2.jpg "SolderPt2")
+
 ### October 29, 2019
 Currently, I am on track with my project in terms of the actual work as well as finacially, meaning that I have had no unexpected fees or costs up to this point in time.
 - Demonstrated a working breadboard of the project to the Professor
