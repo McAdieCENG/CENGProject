@@ -1,5 +1,10 @@
 # Greenhouse System Project Blog Updates
 
+### November 19, 2019
+This is the week that the enclosure is due unfortunately, I was unable to have my enclosure present with me in class today. It has been completed but the person I had print the case for me forget to bring it with them to give to me. The appropriate files have been uploaded to the [Case Files](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Case%20Files) folder on my repository. My case is a modified version of the case found [here](https://www.thingiverse.com/thing:604915). Since I do not have my case to take pictures of I have uploaded the images of what the case currently looks like and will upload the real case once it is in my possession.
+![MainBody](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/MAIN_BODY.PNG "MainBody")
+![PortCap](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/CAP.PNG "PortCap")
+
 ### November 12, 2019
 Updates for this past week have been posted below. I am still on track with my purposed schedule and project plan for this semester, as well, I am still on with regards to my budget and have not had any unexpected increases to my budget.
 - Uploaded Progress report to GitHub [documentation folder](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Progress%20Updates)
