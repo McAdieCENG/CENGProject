@@ -1,5 +1,15 @@
 # Greenhouse System Project Blog Updates
 
+### November 26, 2019
+Uploaded my project presentation to the [presentations](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Presentations) folder in the documents tab. I will be presenting this to the class next week on December 3rd, 2019
+
+### November 25, 2019
+Today I was able to pick up my 3D printed case from Humbers Prototype Lab. Here are the images of the case with the development platform enclosed.
+![PiCase1](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PiCase1.jpg "PiCase1")
+![PiCase2](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PiCase2.jpg "PiCase2")
+![PiCase3](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PiCase3.jpg "PiCase3")
+![PiCase4](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PiCase4.jpg "PiCase4")
+
 ### November 19, 2019
 This is the week that the enclosure is due unfortunately, I was unable to have my enclosure present with me in class today. It has been completed but the person I had print the case for me forget to bring it with them to give to me. The appropriate files have been uploaded to the [Case Files](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Case%20Files) folder on my repository. My case is a modified version of the case found [here](https://www.thingiverse.com/thing:604915). Since I do not have my case to take pictures of I have uploaded the images of what the case currently looks like and will upload the real case once it is in my possession.
 ![Case](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/Case.PNG "Case")
