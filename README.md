@@ -16,6 +16,19 @@ Welcome to the build guide for the BME680 sensor to use in devolpment with a gre
 ![Finished Product](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PiCase4.jpg)
 
 ## Bill of Materials
+Tools Used:
+- Soldering Iron
+- 3D Printer
+- PCB Milling Machine
+- Wire Cutters/Strippers
+
+Materials Used:
+- PLA Spool for 3D printer
+- PCB Boards
+- Small Gage Wire
+
+Item Budget Sheet: [Click Here for Budget File With Clickable Links](https://github.com/McAdieCENG/CENGProject/blob/master/Documentation/Budget%20Files/Budget.xlsx)
+![Budget](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/Budget.png)
 
 ## Time Commitment
 
