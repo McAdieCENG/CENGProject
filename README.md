@@ -16,19 +16,21 @@ Welcome to the build guide for the BME680 sensor to use in devolpment with a gre
 ![Finished Product](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PiCase4.jpg)
 
 ## Bill of Materials
-Tools Used:
+**Tools Used:**
 - Soldering Iron
 - 3D Printer
 - PCB Milling Machine
 - Wire Cutters/Strippers
 
-Materials Used:
+**Materials Used:**
 - PLA Spool for 3D printer
 - PCB Boards
 - Small Gage Wire
 
-Item Budget Sheet: [Click Here for Budget File With Clickable Links](https://github.com/McAdieCENG/CENGProject/blob/master/Documentation/Budget%20Files/Budget.xlsx)
+**Item Budget Sheet: [Click Here for Budget File With Clickable Links]**(https://github.com/McAdieCENG/CENGProject/blob/master/Documentation/Budget%20Files/Budget.xlsx)
 ![Budget](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/Budget.png)
+
+These products are what I used to complete this project, some or all products may not be required if you already have access to them or wish to use a supliment product inplace of the ones I have used. ***Keep in mind, as a student I was able to aquire my PCB board and 3D printed case for FREE as part of my tuition. These items will need to be aquired by a 3rd party supplier or manufacturer to complete this build and will most likly cost a small fee.**
 
 ## Time Commitment
 
