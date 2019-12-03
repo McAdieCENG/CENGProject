@@ -26,6 +26,12 @@ Welcome to the build guide for the BME680 sensor to use in devolpment with a gre
 - PLA Spool for 3D printer
 - PCB Boards
 - Small Gage Wire
+- Solder
+
+**Other Items Needed/Used**
+- Laptop
+- Ethernet Cable
+- Internet Connection
 
 **Item Budget Sheet: [Click Here for Budget File With Clickable Links](https://github.com/McAdieCENG/CENGProject/blob/master/Documentation/Budget%20Files/Budget.xlsx)**
 ![Budget](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/Budget.png)
@@ -33,6 +39,7 @@ Welcome to the build guide for the BME680 sensor to use in devolpment with a gre
 These products are what I used to complete this project, some or all products may not be required if you already have access to them or wish to use a supliment product inplace of the ones I have used. **Keep in mind, as a student I was able to aquire my PCB board and 3D printed case for FREE as part of my tuition. These items will need to be aquired by a 3rd party supplier or manufacturer to complete this build and will most likly cost a small fee.**
 
 ## Time Commitment
+This project ran its course over an entire school semester (4 months, ~15 weeks). The average time per week spend working on this project including class time, was around ~5 hours. With an average understanding of computers and hardware assembly, I would estimate that the time to potentially complete this project would be around 7-8 hours. That being said, I have made this estimate based on the fact that you should have all or most of the required parts at the time of production. Please be advisded of shipping times when ordering parts or materials, some products may be coming from over seas and require longer time to arrive. A full schedule break down for my time used over the school semester can be found [here.](https://github.com/McAdieCENG/CENGProject/blob/master/Documentation/Schedule%20Files/CENG317Schedule-pages-deleted.pdf)
 
 ## Mechanical Assembly
 
