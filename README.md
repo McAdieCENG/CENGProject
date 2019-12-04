@@ -44,6 +44,9 @@ This project ran its course over an entire school semester (4 months, ~15 weeks)
 **Raspberry Pi Setup:**  
 When it comes to setting up your Raspberry Pi for this build there are a few quick tutorials online that can help you through this portion of the build. The first tutorial can be found at this [link here.](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) After completing the initial setup of the Pi following the first link, you can use [this link](https://www.raspberrypi.org/documentation/remote-access/vnc/README.md) to set up the Pi to accept a remote desktop connection through a program called VNC viewer. It may also be a good idea to enable I2C, you can follow this [link here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c) to get that done. Lastly, we need to install the appropriate libraries for the BME680 to work properly, just follow [this](https://github.com/adafruit/Adafruit_CircuitPython_BME680) Adafruit GitHub tutorial to get those installed. After completing these few tutorials you can power down your Raspberry Pi for now as we do not need it quite yet.
 
+**Custom Case:**  
+If you'd like to 3D print the same case I used in this project the files can be found [here.](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Case%20Files) You can either use the program [OpenSCAD](https://www.openscad.org/) to edit the `.scad` file to your liking OR use the file `Case.stl` as is to print the same case I used for the build.
+
 **Breadboard Setup: (This step is optional, can be used to verify the integrity of the sensor)**  
 1. Connect wires to the sensor and the development platform like shown below:
 ![Breadboard](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_bb.png)
@@ -79,3 +82,6 @@ Once everything is plugged in, and you have double checked your connections, plu
 ![Readings](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/Readings.jpg)
 
 ## Production Testing
+For the case of production testing of this board, my suggestion would be to have a fully setup development platform for easy access to the test software and libraries for once the PCB's have been soldered and are ready for testing. As for testing you'd just have to connect a BME680 sensor to the 8 pin header on the board and run the test program, if you can display readings from the sensor then the board is functional and ready to distribute.  
+  
+This concludes the end of the build instructions, I hope you had as much fun with this project as I did!
