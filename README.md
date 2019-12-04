@@ -58,7 +58,7 @@ Step 1: Fritzing
 [Fritzing](https://fritzing.org/download/) is an open-source application that allows users to create PCB schematics for different development platforms. It is highly customizable and easy to use.
 1. Download and extract Fritzing. Installation notes are on the linked page for various operating systems.
 2. Download my Fritzing file [here](https://github.com/McAdieCENG/CENGProject/blob/master/Electronics/BME680%20PCB.fzz) and open it. From the PCB tab, you can make changes at your leisure and pick it apart to see how it was made.  
-![PCB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_pcb.png)
+![PCB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_pcb.png)  
 3.Export the file as a gerber file. `File > Export for production > Extended Gerber`. Keep track of its save location so you know where to access it next.
 4. ZIP/Compress the folder containing the gerber files to send to the etcher of your choice.
 
@@ -77,6 +77,7 @@ Once you have you PCB board returned you can start soldering your components. Pl
 ## Power Up
 Once everything is plugged in, and you have double checked your connections, plug the 6 pin header into the first 6 GPIO pins on the Raspberry Pi and power it on. You can now either download the test program [here](https://github.com/McAdieCENG/CENGProject/tree/master/Software) to see if everything is working properly OR if you have already downloaded it from the breadboard step just re-run the program and make sure you are still able to get readings from the sensor.  
 ![PowerUp](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PowerUpPt2.jpg)
+![Readings](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/Readings.jpg)
 
 ## Unit Testing
 
