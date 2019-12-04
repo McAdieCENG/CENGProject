@@ -55,13 +55,24 @@ When it comes to setting up your Raspberry Pi for this build there are a few qui
 For this part of the project please make sure you proceeded with care and caution. It is advised to double check your designs before purchasing etching and cutting services.
 
 Step 1: Fritzing
-
 [Fritzing](https://fritzing.org/download/) is an open-source application that allows users to create PCB schematics for different development platforms. It is highly customizable and easy to use.
 1. Download and extract Fritzing. Installation notes are on the linked page for various operating systems.
-2. Download my Fritzing file [here](https://github.com/McAdieCENG/CENGProject/blob/master/Electronics/BME680%20PCB.fzz) and open it. From the PCB tab, you can make changes at your leisure and pick it apart to see how it was made.
+2. Download my Fritzing file [here](https://github.com/McAdieCENG/CENGProject/blob/master/Electronics/BME680%20PCB.fzz) and open it. From the PCB tab, you can make changes at your leisure and pick it apart to see how it was made.  
 ![PCB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_pcb.png)
 3.Export the file as a gerber file. `File > Export for production > Extended Gerber`. Keep track of its save location so you know where to access it next.
 4. ZIP/Compress the folder containing the gerber files to send to the etcher of your choice.
+
+Step 2: Soldering
+Once you have you PCB board returned you can start soldering your components. Please note, if you designed your own PCB make sure the connections are correct as a bad connection could result in a short circuit causing damage to your sensor or development platform itself.
+1. Start by getting your BME680, the 8 pin connector that came with the BME680, a 6 pin header and an 8 pin header from the headers kit, wire strippers, copper wire, solder, your soldering iron and of course your PCB.
+2. Solder the 8 pin connector to the BME680. This can be done by putting the longer end of the 8-pin into your breadboard and place your sensor holes into the upright pins and solder all of the pins. This will ensure your sensor doesn’t move too much during soldering along with givng you the optimal connectivity.
+3. Solder your vias on your PCB. The vias are the holes that allow for connections to be made from one side of the board to the other. MY PCB designed board has 4 vias that need to be soldered. The easiest method I found, was to strip your copper wiring, stick it into the breadboard, and slide one via onto it so that it is flat and stable for soldering.
+4. Now it is time to solder your headers to the board. We will start with the 6 pin, like the image below we want the header to be soldered to the bottom of the board so it can be plugged into the GPIO pins on the Raspberry Pi.  
+![6Pin](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/SolderPt2.jpg)
+5.Do the same you did for the 6 pin header now for the 8 pin header, except make sure you flip the board over so the 8 pin header is soldered to the top of the board. Refrence the image below.  
+![8Pin](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/SolderPt1.jpg)
+6. You should now be able to plug your sensor into the 8 pin header on the board. Make sure you line up the holes on the sensor with the cut holes on the board so the proper pins are being used to power the sensor and grab data from it as well. Refrence the below image.  
+![FinishedBoard](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PowerUpPt1.jpg)
 
 ## Power Up
 
