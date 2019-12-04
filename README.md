@@ -49,10 +49,19 @@ When it comes to setting up your Raspberry Pi for this build there are a few qui
 1. Connect wires to the sensor and the development platform like shown below:
 ![Breadboard](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_bb.png)
 2. Download the test program from [here](https://github.com/McAdieCENG/CENGProject/tree/master/Software). Transfer this file over to the development platform if you didn't already download it from the development platform.
-3. Run the program on the development and make sure you are getting readings from your sensor.
-
+3. Run the program on the development platform and make sure you are getting readings from your sensor.
 
 ## PCB/Soldering
+For this part of the project please make sure you proceeded with care and caution. It is advised to double check your designs before purchasing etching and cutting services.
+
+Step 1: Fritzing
+
+[Fritzing](https://fritzing.org/download/) is an open-source application that allows users to create PCB schematics for different development platforms. It is highly customizable and easy to use.
+1. Download and extract Fritzing. Installation notes are on the linked page for various operating systems.
+2. Download my Fritzing file [here](https://github.com/McAdieCENG/CENGProject/blob/master/Electronics/BME680%20PCB.fzz) and open it. From the PCB tab, you can make changes at your leisure and pick it apart to see how it was made.
+![PCB](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_pcb.png)
+3.Export the file as a gerber file. `File > Export for production > Extended Gerber`. Keep track of its save location so you know where to access it next.
+4. ZIP/Compress the folder containing the gerber files to send to the etcher of your choice.
 
 ## Power Up
 
