@@ -54,7 +54,7 @@ When it comes to setting up your Raspberry Pi for this build there are a few qui
 ## PCB/Soldering
 For this part of the project please make sure you proceeded with care and caution. It is advised to double check your designs before purchasing etching and cutting services.
 
-Step 1: Fritzing
+Step 1: Fritzing  
 [Fritzing](https://fritzing.org/download/) is an open-source application that allows users to create PCB schematics for different development platforms. It is highly customizable and easy to use.
 1. Download and extract Fritzing. Installation notes are on the linked page for various operating systems.
 2. Download my Fritzing file [here](https://github.com/McAdieCENG/CENGProject/blob/master/Electronics/BME680%20PCB.fzz) and open it. From the PCB tab, you can make changes at your leisure and pick it apart to see how it was made.  
@@ -62,7 +62,7 @@ Step 1: Fritzing
 3.Export the file as a gerber file. `File > Export for production > Extended Gerber`. Keep track of its save location so you know where to access it next.
 4. ZIP/Compress the folder containing the gerber files to send to the etcher of your choice.
 
-Step 2: Soldering
+Step 2: Soldering  
 Once you have you PCB board returned you can start soldering your components. Please note, if you designed your own PCB make sure the connections are correct as a bad connection could result in a short circuit causing damage to your sensor or development platform itself.
 1. Start by getting your BME680, the 8 pin connector that came with the BME680, a 6 pin header and an 8 pin header from the headers kit, wire strippers, copper wire, solder, your soldering iron and of course your PCB.
 2. Solder the 8 pin connector to the BME680. This can be done by putting the longer end of the 8-pin into your breadboard and place your sensor holes into the upright pins and solder all of the pins. This will ensure your sensor doesn’t move too much during soldering along with givng you the optimal connectivity.
@@ -75,6 +75,8 @@ Once you have you PCB board returned you can start soldering your components. Pl
 ![FinishedBoard](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PowerUpPt1.jpg)
 
 ## Power Up
+Once everything is plugged in, and you have double checked your connections, plug the 6 pin header into the first 6 GPIO pins on the Raspberry Pi and power it on. You can now either download the test program [here](https://github.com/McAdieCENG/CENGProject/tree/master/Software) to see if everything is working properly OR if you have already downloaded it from the breadboard step just re-run the program and make sure you are still able to get readings from the sensor.  
+![PowerUp](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/PowerUpPt2.jpg)
 
 ## Unit Testing
 
