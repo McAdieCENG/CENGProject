@@ -42,10 +42,15 @@ These products are what I used to complete this project, some or all products ma
 This project ran its course over an entire school semester (4 months, ~15 weeks). The average time per week spend working on this project including class time, was around ~5 hours. With an average understanding of computers and hardware assembly, I would estimate that the time to potentially complete this project would be around 7-8 hours. That being said, I have made this estimate based on the fact that you should have all or most of the required parts at the time of production. Please be advisded of shipping times when ordering parts or materials, some products may be coming from over seas and require longer time to arrive. A full schedule break down for my time used over the school semester can be found [here.](https://github.com/McAdieCENG/CENGProject/blob/master/Documentation/Schedule%20Files/CENG317Schedule-pages-deleted.pdf)
 
 ## Mechanical Assembly
-**Raspberry Pi Setup:  **
+**Raspberry Pi Setup:**  
 When it comes to setting up your Raspberry Pi for this build there are a few quick tutorials online that can help you through this portion of the build. The first tutorial can be found at this [link here.](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) After completing the initial setup of the Pi following the first link, you can use [this link](https://www.raspberrypi.org/documentation/remote-access/vnc/README.md) to set up the Pi to accept a remote desktop connection through a program called VNC viewer. It may also be a good idea to enable I2C, you can follow this [link here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c) to get that done. After completing these few tutorials you can power down your Raspberry Pi for now as we do not need it quite yet.
 
-**Breadboard Setup: (This step is optional, can be used to verify the integrity of the sensor)  **
+**Breadboard Setup: (This step is optional, can be used to verify the integrity of the sensor)**  
+1. Connect wires to the sensor and the development platform like shown below:
+![Breadboard](https://raw.githubusercontent.com/McAdieCENG/CENGProject/master/Images/BME680_bb.png)
+2. Download the test program from [here](https://github.com/McAdieCENG/CENGProject/tree/master/Software). Transfer this file over to the development platform if you didn't already download it from the development platform.
+3. Run the program on the development and make sure you are getting readings from your sensor.
+
 
 ## PCB/Soldering
 
