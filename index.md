@@ -1,5 +1,10 @@
 # Greenhouse System Project Blog Updates
 
+### December 3, 2019
+Today was my day to present my project to the class. The presentation went smothly and the demo of the project went according to plan. No issues aroused during the presentation or demo time.  
+I also have finsihed my build instructions in the "README.md" file concluding my work for this course.
+
+
 ### November 26, 2019
 Uploaded my project presentation to the [presentations](https://github.com/McAdieCENG/CENGProject/tree/master/Documentation/Presentations) folder in the documents tab. I will be presenting this to the class next week on December 3rd, 2019
 
